@@ -6,12 +6,15 @@
 ---
 
 ## 2018
-
-### September
+### Octorber
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
 | 10/06 | Ding   |  |  |  |
 | 10/06 | Yiqing    |  |  |  |
+
+### September
+|    Date    | Presenter | Topic | Source | Links |
+|------------|-----------|-------|--------|-------|
 | 09/29 | Junxue |  How to use our TestBed | Tutorial | [TestBed Slice](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/09/20180929_JunxueZhang.pdf)  |
 | 09/22 |  Yiqing | A tutorial on Parameter Server (Part I)  | OSDI 2014 | [PS paper](https://www.cs.cmu.edu/~muli/file/parameter_server_osdi14.pdf), [PPT](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/09/20180922_YiqingMa.pdf) |
 | 09/08 |   Zhaorong   | Andromeda: Performance, Isolation, and Velocity at Scale in Cloud Network Virtualization | NSDI 2018 | [Andromeda paper and slides](https://www.usenix.org/conference/nsdi18/presentation/dalton) |
