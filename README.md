@@ -9,6 +9,8 @@
 ### Octorber
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
+| 10/13 | Han   |  |  |  |
+| 10/13 | Xinchen  |  |  |  |
 | 10/06 | Ding   | Hierarchical Heavy Hitter | SIGCOMM 2017 | [Heavy Hitter Paper](https://arxiv.org/abs/1707.06778),[Slice](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/10/20181006_DingTang.pdf) |
 | 10/06 | Yiqing    | A tutorial on Parameter Server (Part II)   | OSDI 2014 | [Slice](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/10/20181006_YiqingMa.pdf) |
 
