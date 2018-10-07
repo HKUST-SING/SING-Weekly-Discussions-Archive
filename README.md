@@ -11,13 +11,13 @@
 |------------|-----------|-------|--------|-------|
 | 10/13 | Han   |  |  |  |
 | 10/13 | Xinchen  |  |  |  |
-| 10/06 | Ding   | Hierarchical Heavy Hitter | SIGCOMM 2017 | [Heavy Hitter Paper](https://arxiv.org/abs/1707.06778),[Slice](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/10/20181006_DingTang.pdf) |
-| 10/06 | Yiqing    | A tutorial on Parameter Server (Part II)   | OSDI 2014 | [Slice](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/10/20181006_YiqingMa.pdf) |
+| 10/06 | Ding   | Hierarchical Heavy Hitter | SIGCOMM 2017 | [Heavy Hitter Paper](https://arxiv.org/abs/1707.06778),[Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/10/1006_DingTang.pdf) |
+| 10/06 | Yiqing    | A tutorial on Parameter Server (Part II)   | OSDI 2014 | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/10/1006_YiqingMa.pdf) |
 
 ### September
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
-| 09/29 | Junxue |  How to use our TestBed | Tutorial | [TestBed Slice](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/09/20180929_JunxueZhang.pdf)  |
+| 09/29 | Junxue |  How to use our TestBed | Tutorial | [TestBed slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/09/20180929_JunxueZhang.pdf)  |
 | 09/22 |  Yiqing | A tutorial on Parameter Server (Part I)  | OSDI 2014 | [PS paper](https://www.cs.cmu.edu/~muli/file/parameter_server_osdi14.pdf), [PPT](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/09/20180922_YiqingMa.pdf) |
 | 09/08 |   Zhaorong   | Andromeda: Performance, Isolation, and Velocity at Scale in Cloud Network Virtualization | NSDI 2018 | [Andromeda paper and slides](https://www.usenix.org/conference/nsdi18/presentation/dalton) |
 
