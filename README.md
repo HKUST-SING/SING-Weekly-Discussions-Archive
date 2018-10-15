@@ -9,8 +9,8 @@
 ### Octorber
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
-|  | Jiacheng |  |  |  |
 |  | Yiding |  |  |  |
+| 10/20 | Jiacheng |  |  |  |
 | 10/20 | Han   |  |  |  |
 | 10/13 | Xinchen  |  HotCocoa: Hardware Congestion Control Abstractions  |  HotNets 17| [HotCocoa](https://www.cs.princeton.edu/~jrex/papers/hotcocoa17.pdf),[Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/10/1013_XinchenWan.pptx) |
 | 10/06 | Ding   | Hierarchical Heavy Hitter | SIGCOMM 2017 | [Heavy Hitter Paper](https://arxiv.org/abs/1707.06778),[Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/10/1006_DingTang.pdf) |
