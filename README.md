@@ -9,9 +9,15 @@
 ### Octorber
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
+<<<<<<< HEAD
 | 10/27 | Yiding |  |  |  |
 | 10/27 | Jiacheng |  |  |  |
 | 10/20 | Han  | Deep Reinforcement learning  | Topic | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/10/1020_HanTian.pptx) |
+=======
+| 10/26 | Yiding |  |  |  |
+| 10/26 | Jiacheng |  |  |  |
+| 10/20 | Han  | Deep Reinforcement learning Overview | Topic | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/10/1020_HanTian.pptx) |
+>>>>>>> 6e49a29cfabed491bcc0cb355e6ca5e8d3047d4e
 | 10/13 | Xinchen  |  HotCocoa: Hardware Congestion Control Abstractions  |  HotNets 17| [HotCocoa](https://www.cs.princeton.edu/~jrex/papers/hotcocoa17.pdf),[Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/10/1013_XinchenWan.pptx) |
 | 10/06 | Ding   | Hierarchical Heavy Hitter | SIGCOMM 2017 | [Heavy Hitter Paper](https://arxiv.org/abs/1707.06778),[Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/10/1006_DingTang.pdf) |
 | 10/06 | Yiqing    | A tutorial on Parameter Server (Part II)   | OSDI 2014 | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/10/1006_YiqingMa.pdf) |
