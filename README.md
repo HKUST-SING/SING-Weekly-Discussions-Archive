@@ -12,7 +12,7 @@
 |------------|-----------|-------|--------|-------|
 | 11/10 | ChaoLiang |  |  |  |
 | 11/10 | Gaoxiong |  |  |  |
-| 11/03 | Liu | Multi-Armed Bandit | Reinforcement Learning | [Slides]() |
+| 11/03 | Liu | Multi-Armed Bandit | Reinforcement Learning | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/11/1103_LiuYang.key) |
 | 11/03 | Zhaoxiong |  |  |  |
 
 ### Octorber
@@ -20,8 +20,7 @@
 |------------|-----------|-------|--------|-------|
 | 10/27 | Yiding | Device Placement with RL | ICML 2018 | [Spotlight](http://proceedings.mlr.press/v80/gao18a.html), [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/10/1027_YidingWang.pdf) |
 | 10/27 | Jiacheng | TVM | OSDI 2018 | [TVM](https://www.usenix.org/conference/osdi18/presentation/chen), [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/10/1027_JiaCheng.pptx) |
-| 10/20 | Han  | Deep Reinfo
-rcement learning Overview | Topic | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/10/1020_HanTian.pptx) |
+| 10/20 | Han  | Deep Reinforcement learning Overview | Topic | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/10/1020_HanTian.pptx) |
 | 10/13 | Xinchen  |  HotCocoa: Hardware Congestion Control Abstractions  |  HotNets 17| [HotCocoa](https://www.cs.princeton.edu/~jrex/papers/hotcocoa17.pdf), [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/10/1013_XinchenWan.pptx) |
 | 10/06 | Ding   | Hierarchical Heavy Hitter | SIGCOMM 2017 | [Heavy Hitter Paper](https://arxiv.org/abs/1707.06778), [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/10/1006_DingTang.pdf) |
 | 10/06 | Yiqing    | A tutorial on Parameter Server (Part II)   | OSDI 2014 | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/10/1006_YiqingMa.pdf) |
