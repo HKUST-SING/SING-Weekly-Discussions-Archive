@@ -13,7 +13,7 @@
 | 11/10 | ChaoLiang |  |  |  |
 | 11/10 | Gaoxiong |  |  |  |
 | 11/03 | Liu | Multi-Armed Bandit | Reinforcement Learning | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/11/1103_LiuYang.key) |
-| 11/03 | Zhaoxiong |  |  |  |
+| 11/03 | Zhaoxiong | Ray |  BAIRLab 2018 | [Ray](https://bair.berkeley.edu/blog/2018/01/09/ray/),[Slides]() |
 
 ### Octorber
 |    Date    | Presenter | Topic | Source | Links |
