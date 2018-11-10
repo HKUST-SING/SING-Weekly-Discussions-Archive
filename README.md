@@ -1,3 +1,4 @@
+
 # SING Weekly Discussions Archive
 
 > This is the Weekly Discussion [`Order`](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/Namelist.md).
@@ -9,8 +10,9 @@
 ### November
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
-| 11/10 | ChaoLiang | Flare:Optimizing Apache Spark | OSDI 2018 | [Flare](https://www.usenix.org/conference/osdi18/presentation/essertel),[Slides] |
-| 11/10 | Gaoxiong | Learning-based Congestion Control | NSDI 2018 | [PCC Vivace](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-dong.pdf),[Slides] |
+| 11/17 | Hong  |  |  |  |
+| 11/10 | ChaoLiang | Flare:Optimizing Apache Spark | OSDI 2018 | [Flare](https://www.usenix.org/conference/osdi18/presentation/essertel),[Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/11/11.10_ChaoLiangZeng.pptx) |
+| 11/10 | Gaoxiong | Learning-based Congestion Control | NSDI 2018 | [PCC Vivace](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-dong.pdf),[Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/11/11.10_GaoXiongZeng.pptx) |
 | 11/03 | Liu | Multi-Armed Bandit | Reinforcement Learning | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/11/1103_LiuYang.key) |
 | 11/03 | Zhaoxiong | Ray |  BAIRLab 2018 | [Ray](https://bair.berkeley.edu/blog/2018/01/09/ray/),[Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/11/1103_ZhaoXiongYang.pptx) |
 
