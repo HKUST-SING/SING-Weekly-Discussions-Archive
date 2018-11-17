@@ -10,7 +10,9 @@
 ### November
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
-| 11/17 | Hong  |  |  |  |
+| 11/24 | Junxue  |  |  |  |
+| 11/24 | Jingrong  |  |  |  |
+| 11/17 | Hong  | Gandiva | OSDI 2018 | [Gandiva](https://www.usenix.org/conference/osdi18/presentation/xiao),[Slides]() |
 | 11/10 | ChaoLiang | Flare:Optimizing Apache Spark | OSDI 2018 | [Flare](https://www.usenix.org/conference/osdi18/presentation/essertel),[Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/11/11.10_ChaoLiangZeng.pptx) |
 | 11/10 | Gaoxiong | Learning-based Congestion Control | NSDI 2018 | [PCC Vivace](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-dong.pdf),[Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/11/11.10_GaoXiongZeng.pptx) |
 | 11/03 | Liu | Multi-Armed Bandit | Reinforcement Learning | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/11/1103_LiuYang.key) |
