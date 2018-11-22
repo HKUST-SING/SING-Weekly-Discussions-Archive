@@ -10,7 +10,7 @@
 ### November
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
-| 11/24 | Junxue  |  |  |  |
+| 11/24 | Ge |  |  |  |
 | 11/24 | Jingrong  |  |  |  |
 | 11/17 | Hong  | Gandiva | OSDI 2018 | [Gandiva](https://www.usenix.org/conference/osdi18/presentation/xiao),[Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/11/11.17_HongZhang.pdf) |
 | 11/10 | ChaoLiang | Flare:Optimizing Apache Spark | OSDI 2018 | [Flare](https://www.usenix.org/conference/osdi18/presentation/essertel),[Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/11/11.10_ChaoLiangZeng.pptx) |
