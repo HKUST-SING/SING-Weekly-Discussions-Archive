@@ -10,8 +10,8 @@
 ### November
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
-| 11/24 | Ge | Token Flow Control in DCN | Eurosys 2016 | [Token Flow Control](http://delivery.acm.org/10.1145/2910000/2901336/a23-zhang.pdf?ip=175.159.123.241&id=2901336&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EFC30B8D6EF32B758%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1543195425_8e98e1734e140d046b4a86f214563057),[Slides]() |
-| 11/24 | Jingrong  | Free Flow | NSDI 2019 | [Free Flow](https://www.usenix.org/conference/nsdi19/presentation/kim),[Slides]() |
+| 11/24 | Ge | Token Flow Control in DCN | Eurosys 2016 | [Token Flow Control](http://delivery.acm.org/10.1145/2910000/2901336/a23-zhang.pdf?ip=175.159.123.241&id=2901336&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EFC30B8D6EF32B758%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1543195425_8e98e1734e140d046b4a86f214563057),[Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/11/11.24_GeChen.pdf) |
+| 11/24 | Jingrong  | Free Flow | NSDI 2019 | [Free Flow](https://www.usenix.org/conference/nsdi19/presentation/kim),[Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/11/11.24_JingrongChen.pptx) |
 | 11/17 | Hong  | Gandiva | OSDI 2018 | [Gandiva](https://www.usenix.org/conference/osdi18/presentation/xiao),[Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/11/11.17_HongZhang.pdf) |
 | 11/10 | ChaoLiang | Flare:Optimizing Apache Spark | OSDI 2018 | [Flare](https://www.usenix.org/conference/osdi18/presentation/essertel),[Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/11/11.10_ChaoLiangZeng.pptx) |
 | 11/10 | Gaoxiong | Learning-based Congestion Control | NSDI 2018 | [PCC Vivace](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-dong.pdf),[Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/11/11.10_GaoXiongZeng.pptx) |
