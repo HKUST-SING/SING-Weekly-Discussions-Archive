@@ -5,12 +5,20 @@
 
 ---
 
+
+
 ## 2018
 
 ### December
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
-| 11/24 | Qinghe | Pretzel: Opening the Black Box of Machine Learning Prediction Serving Systems | OSDI 2018 | [Pretzel](https://www.usenix.org/system/files/osdi18-lee.pdf),[Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/12/12.2_Qinghe.pptx) |
+| 12/29 | Yiqing  |   |   |   |
+| 12/29 | TianHan  |   |   |   |
+| 12/22 | Qinghuan |   |   |   |
+| 12/22 | Duowen |   |   |   |
+| 12/15 | TangDing |   |   |   |
+| 12/08 | Wenxin |   |   |   |
+| 12/01 | Qinghe | Pretzel: Opening the Black Box of Machine Learning Prediction Serving Systems | OSDI 2018 | [Pretzel](https://www.usenix.org/system/files/osdi18-lee.pdf),[Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/12/12.2_Qinghe.pptx) |
 
 
 ### November
