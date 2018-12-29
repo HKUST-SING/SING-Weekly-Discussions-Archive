@@ -1,0 +1,18 @@
+AutoML:
+1.preprocess and clean the data
+2.select and construct appropriate features or net
+
+1.GRID Search 枚举
+2.Heuristic Search 进化算法
+3.Bayesian Optimization  Mean +std
+4.AUOT-SKLearn
+
+Google AutoML Cloud
+
+High-order Feature Generation NIPS 第四范式
+
+auto ml 
+
+Balance + Data
+
+aaai 6月

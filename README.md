@@ -12,10 +12,10 @@
 ### December
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
-| 12/29 | Qinghuan |   |   |   |
-| 12/29 | Ding |   |   |   |
-| 12/22 | Wenxin |   |   |   |
-| 12/22 | Duowen |   |   |   |
+| 12/29 | Weiyan |  AutoML intro | NIPS | [Slides]() |
+| 12/29 | Ding | JANUS:Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs | NSDI 2019  | [Paper](https://arxiv.org/abs/1812.01329),[Slides]() |
+| 12/22 | Wenxin | Distributed Big Data Stream Processing | OSDI 2018  | [Three Steps](https://www.usenix.org/conference/osdi18/presentation/kalavri), [Slides]()  |
+| 12/22 | Duowen | Datacenter RPCs can be General and Fast |   | [eRPC](https://arxiv.org/abs/1806.00680),[Slides]()  |
 | 12/01 | Qinghe | Pretzel: Opening the Black Box of Machine Learning Prediction Serving Systems | OSDI 2018 | [Pretzel](https://www.usenix.org/system/files/osdi18-lee.pdf),[Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/12/12.2_Qinghe.pptx) |
 
 
