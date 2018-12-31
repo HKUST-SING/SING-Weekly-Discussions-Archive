@@ -5,6 +5,15 @@
 
 ---
 
+## 2019
+
+### January
+|    Date    | Presenter | Topic | Source | Links |
+|------------|-----------|-------|--------|-------|
+| 1/5 | Weiyan |  |  |  |
+| 1/5 | Qinghuan |  |  |  |
+| 1/5 | Han |  |  |  |
+
 ## 2018
 
 ### December
@@ -13,7 +22,7 @@
 | 12/29 | Weiyan |  AutoML Introduction | NIPS | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/12/12.29_Weiyan.pptx) |
 | 12/29 | Ding | JANUS:Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs | NSDI 2019  | [JANUS](https://arxiv.org/abs/1812.01329),[Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/12/12.29_Ding.pptx) |
 | 12/22 | Wenxin | Distributed Big Data Stream Processing | OSDI 2018  | [Three Steps](https://www.usenix.org/conference/osdi18/presentation/kalavri), [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/12/12.22_Wenxin.pdf)  |
-| 12/22 | Duowen | Datacenter RPCs can be General and Fast |   | [eRPC](https://arxiv.org/abs/1806.00680),[Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/12/12.22_Duowen.key)  |
+| 12/22 | Duowen | Datacenter RPCs can be General and Fast |  CMU & Intel Lab  | [eRPC](https://arxiv.org/abs/1806.00680),[Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/12/12.22_Duowen.key)  |
 | 12/01 | Qinghe | Pretzel: Opening the Black Box of Machine Learning Prediction Serving Systems | OSDI 2018 | [Pretzel](https://www.usenix.org/system/files/osdi18-lee.pdf),[Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/12/12.2_Qinghe.pptx) |
 
 
