@@ -5,14 +5,18 @@
 
 ---
 
-
+高雄+水海+
+[DCQCN]
+TIMELY
+RDMA LAR ScalE
+[RNN]
 
 ## 2018
 
 ### December
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
-| 12/29 | Weiyan |  AutoML intro | NIPS | [Slides]() |
+| 12/29 | Weiyan |  AutoML Introduction | NIPS | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/12/12.29_Weiyan.pptx) |
 | 12/29 | Ding | JANUS:Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs | NSDI 2019  | [JANUS](https://arxiv.org/abs/1812.01329),[Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/12/12.29_Ding.pptx) |
 | 12/22 | Wenxin | Distributed Big Data Stream Processing | OSDI 2018  | [Three Steps](https://www.usenix.org/conference/osdi18/presentation/kalavri), [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/12/12.22_Wenxin.pdf)  |
 | 12/22 | Duowen | Datacenter RPCs can be General and Fast |   | [eRPC](https://arxiv.org/abs/1806.00680),[Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2018/12/12.22_Duowen.key)  |
