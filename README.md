@@ -5,12 +5,6 @@
 
 ---
 
-高雄+水海+
-[DCQCN]
-TIMELY
-RDMA LAR ScalE
-[RNN]
-
 ## 2018
 
 ### December
