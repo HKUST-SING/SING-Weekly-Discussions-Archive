@@ -10,9 +10,10 @@
 ### January
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
-| 1/5 | Weiyan |  |  |  |
-| 1/5 | Qinghuan |  |  |  |
-| 1/5 | Han |  |  |  |
+| 1/12 | Han |  |  |  |
+| 1/12 | Xinchen |  |  |  |
+| 1/5 | Weiyan | Neural Architecture Search topic | AAAI | [Slides]() |
+| 1/5 | Qinghuan | Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective | HPCA | [Slides]() |
 
 ## 2018
 
