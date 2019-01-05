@@ -10,6 +10,7 @@
 ### January
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
+| 1/12 | Yiding |  |  |  |
 | 1/12 | Han |  |  |  |
 | 1/12 | Xinchen |  |  |  |
 | 1/5 | Weiyan | Neural Architecture Search topic | AAAI | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2019/01/01.04_Weiyan.pptx) |
