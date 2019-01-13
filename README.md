@@ -15,7 +15,7 @@
 | 1/19 | Yiqing |  |  |  |  
 | 1/12 | Yiding | Neural Adaptive Content-aware Internet Video Delivery | OSDI18 | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2019/01/01.11_Yiding.pdf) |
 | 1/12 | Han | Mainstream : Dynamic Stem-Sharing for Multi-Tenant Video Processing | USENIX ATC18 | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2019/01/01.11_Han.pptx) |
-| 1/12 | Xinchen | Floem: A Programming System for NIC-Accelerated Network Applications | OSDI18 | [Slides]() |
+| 1/12 | Xinchen | Floem: A Programming System for NIC-Accelerated Network Applications | OSDI18 | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2019/01/01.11_Xinchen.pptx) |
 | 1/5 | Weiyan | Neural Architecture Search topic | AAAI | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2019/01/01.04_Weiyan.pptx) |
 | 1/5 | Qinghuan | Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective | HPCA | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2019/01/01.04_Qinghuan.pptx) |
 
