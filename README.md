@@ -16,7 +16,7 @@
 |------------|-----------|-------|--------|-------|
 | 1/19 | Zhaoxiong | TicTac: Improving Distributed Deep Learning With Communication Scheduling | SysML19 | [Slides]() |  
 | 1/19 | Jiacheng | Selecta: Heterogeneous Cloud Storage Configuration for Data Analytics | ATC18 | [Slides]() |  
-| 1/19 | Yiqing | Improving TCP Congestion Control with Machine Intelligence | SIGCOMM18-NetAI | [Slides]() |  
+| 1/19 | Yiqing | Improving TCP Congestion Control with Machine Intelligence | SIGCOMM18-NetAI | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2019/01/01.19_Yiqing.key) |  
 | 1/12 | Yiding | Neural Adaptive Content-aware Internet Video Delivery | OSDI18 | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2019/01/01.11_Yiding.pdf) |
 | 1/12 | Han | Mainstream : Dynamic Stem-Sharing for Multi-Tenant Video Processing | ATC18 | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2019/01/01.11_Han.pptx) |
 | 1/12 | Xinchen | Floem: A Programming System for NIC-Accelerated Network Applications | OSDI18 | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2019/01/01.11_Xinchen.pptx) |
