@@ -9,7 +9,7 @@
 | Wenxin  | 李文信 |
 | Zhaorong  | 刘肇荣 |
 | Yiqing | 马一清 |
-| Zhuoyi | 彭卓艺 | 
+| Zhuoyi | 彭焯艺 | 
 | Ding  |  唐丁 | 
 | Han  |  田晗 | 
 | Xinchen  | 万鑫晨 |
