@@ -17,9 +17,7 @@
 ### Febrary
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
-| 2/23 | Gaoxiong | HyperLoop: Group-Based NIC-Offloading to
-Accelerate Replicated Transactions in Multi-Tenant
-Storage Systems | Sigcomm2018 | [Slides](http://conferences.sigcomm.org/sigcomm/2018/program.html) |  
+| 2/23 | Gaoxiong | HyperLoop: Group-Based NIC-Offloading to Accelerate Replicated Transactions in Multi-Tenant Storage Systems | Sigcomm2018 | [Slides](http://conferences.sigcomm.org/sigcomm/2018/program.html) |  
 | 2/23 | Chaoliang | LegoOS: A Disseminated, Distributed OS for Hardware Resource Disaggregation  | OSDI18 | [Slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_shan.pdf) |  
 
 
