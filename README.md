@@ -13,7 +13,7 @@
 |  3/16   |  Zhaorong    |      |      |        |
 |  3/16   |  Wenxin    |      |      |        |
 |  3/9    |  Qinghe   |  Secure Federated Transfer Learning | Topic |  [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2019/03/03.09_qinghe.pptx) |
-|  3/9    |  Duowen   |  Tiresias: A GPU Cluster Manager for Distributed Deep Learning |  NSDI19 |   [Slides](https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_gu.pdf)     |
+|  3/9    |  Duowen   |  Tiresias: A GPU Cluster Manager for Distributed Deep Learning |  NSDI19 |   [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2019/03/03.09_duowen.pptx)  |
 |  3/2   |  Jingrong  |  Deconstructing RDMA-enabled Distributed Transactions: Hybrid is Better ! |   OSDI18   | [Slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_wei.pdf) |
 |  3/2   |  Ge   |  FlowBlaze: Stateful Packet Processing in Hardware   | NSDI19 | [Slides](https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_pontarelli.pdf) |
  
