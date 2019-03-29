@@ -16,10 +16,15 @@
 ### March
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
+<<<<<<< HEAD
 |  3/28   |  Gaoxiong   |  RDMA/(NIC)  |  Sigcomm19     |  [No Slides]()     |
 |  3/28   |  Yiqing   | CNN/PacketClassification    |  Sigcomm19     |  [No Slides]()   |
 |  3/16   |  Jiacheng   |   Distributed Learning   |    Sigcomm19    |    [No Slides]()    |
 |  3/16   |  Jingrong   |   RDMA/NIC   |    Sigcomm19    |   [No Slides]()     |
+=======
+|  3/23   |     |      |      |        |
+|  3/23   |     |      |      |        |
+>>>>>>> 4951c6193c7628a37e4825254dd03883a571c2e7
 |  3/9    |  Qinghe   |  Secure Federated Transfer Learning | Topic |  [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2019/03/03.09_qinghe.pptx) |
 |  3/9    |  Duowen   |  Tiresias: A GPU Cluster Manager for Distributed Deep Learning |  NSDI19 |   [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2019/03/03.09_duowen.pptx)  |
 |  3/2   |  Jingrong  |  Deconstructing RDMA-enabled Distributed Transactions: Hybrid is Better ! |   OSDI18   | [Slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_wei.pdf) |
