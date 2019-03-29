@@ -13,6 +13,7 @@
 | Ding  |  唐丁 | 
 | Han  |  田晗 | 
 | Xinchen  | 万鑫晨 |
+| Hao | 王浩 | 
 | Weiyan | 王伟俨 |
 | Yiding  | 王一丁 |
 | Jiacheng  | 夏嘉诚 |
