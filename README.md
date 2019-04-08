@@ -10,16 +10,18 @@
 ### April
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
-|            |    Wenxin      |       |        |       |
-|            |    Qinghuan    |       |        |       |
+|    4/11     |   Zhuoyi     |  free discuss     |  free discuss      |  [No Slides]()      |
+|    4/11     |   Ding     |  free discuss    |   free discuss     |  [No Slides]()      |
+|    4/4     |    Wenxin      |  free discuss   |  free discuss      |  [No Slides]()   |
+|    4/4     |    Gaoxiong   |  free discuss  |   free discuss     |  [No Slides]()      |
 
 ### March
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
-|  3/28   |  Gaoxiong   |  RDMA  |  Sigcomm     |  [No Slides]()     |
-|  3/28   |  Yiqing   | CNN    |  Sigcomm     |  [No Slides]()   |
-|  3/16   |  Jiacheng   |   Distributed Learning   |    Sigcomm    |    [No Slides]()    |
-|  3/16   |  Jingrong   |   Security  |    Sigcomm    |   [No Slides]()     |
+|  3/28   |  Gaoxiong   |  free discuss |   free discuss   |  [No Slides]()     |
+|  3/28   |  Yiqing   | free discuss   |  free discuss   |  [No Slides]()   |
+|  3/16   |  Jiacheng   |   free discuss   |  free discuss     |    [No Slides]()    |
+|  3/16   |  Jingrong   |   free discuss  |   free discuss     |   [No Slides]()     |
 |  3/9    |  Qinghe   |  Secure Federated Transfer Learning | Topic |  [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2019/03/03.09_qinghe.pptx) |
 |  3/9    |  Duowen   |  Tiresias: A GPU Cluster Manager for Distributed Deep Learning |  NSDI19 |   [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2019/03/03.09_duowen.pptx)  |
 |  3/2   |  Jingrong  |  Deconstructing RDMA-enabled Distributed Transactions: Hybrid is Better ! |   OSDI18   | [Slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_wei.pdf) |
