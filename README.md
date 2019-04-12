@@ -10,6 +10,8 @@
 ### April
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
+|    4/17    |   Han   |     |       |       |
+|    4/17    |  Xinchen |    |       |       |
 |    4/11     |   Zhuoyi     |  free discuss     |  free discuss      |  [No Slides]()      |
 |    4/11     |   Ding     |  free discuss    |   free discuss     |  [No Slides]()      |
 |    4/4     |    Wenxin      |  free discuss   |  free discuss      |  [No Slides]()   |
