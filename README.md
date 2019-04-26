@@ -10,8 +10,8 @@
 ### April
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
-|    4/25    |  Weiyan    |     |       |       |
-|    4/25    |  Hao    |     |       |       |
+|    4/25    |  Yiding    | free discuss     |   free discuss     | [No Slides]()      |
+|    4/25    |  Hao    | free discuss    |  free discuss      |  [No Slides]()     |
 |    4/18    |   Han   | free discuss    | free discuss      |   [No Slides]()        |
 |    4/18    |  Xinchen |  free discuss  | free discuss      |  [No Slides]()        |
 |    4/11     |   Zhuoyi     |  free discuss     |  free discuss      |  [No Slides]()      |
