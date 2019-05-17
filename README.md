@@ -7,6 +7,14 @@
 
 ## 2019
 
+### May
+|    Date    | Presenter | Topic | Source | Links |
+|------------|-----------|-------|--------|-------|
+|    5/16    |  Weiyan   | free discuss     |   free discuss     | [No Slides]()      |
+|    5/16    |  Chaoliang    | free discuss    |  free discuss      |  [No Slides]()     |
+|    5/9    |  Zhaoxiong    | free discuss     |   free discuss     | [No Slides]()      |
+|    5/9    |  ge    | free discuss    |  free discuss      |  [No Slides]()     |
+
 ### April
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
