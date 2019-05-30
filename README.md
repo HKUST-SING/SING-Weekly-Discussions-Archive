@@ -10,6 +10,8 @@
 ### May
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
+|    5/30    |  Qinghuan   | free discuss     |   free discuss     | [No Slides]()      |
+|    5/30    |  Tianhan   | free discuss     |   free discuss     | [No Slides]()      |         
 |    5/16    |  Weiyan   | free discuss     |   free discuss     | [No Slides]()      |
 |    5/16    |  Chaoliang    | free discuss    |  free discuss      |  [No Slides]()     |
 |    5/9    |  Zhaoxiong    | free discuss     |   free discuss     | [No Slides]()      |
