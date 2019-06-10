@@ -7,6 +7,16 @@
 
 ## 2019
 
+### June
+|    Date    | Presenter | Topic | Source | Links |
+|------------|-----------|-------|--------|-------|
+
+|    6/13    | Yiqing   | ML for CC     |   free discuss     | [No Slides]()      |
+|    6/13    |  Duowen  | free discuss     |   free discuss     | [No Slides]()      |         
+|    6/6    |  Jingrong   | free discuss     |   free discuss     | [No Slides]()      |
+|    6/6    |  Qinghe   | free discuss     |   free discuss     | [No Slides]()      |         
+
+
 ### May
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
