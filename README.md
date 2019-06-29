@@ -10,6 +10,8 @@
 ### June
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
+|    6/27    | Xinchen   | Loom: Flexible and Efficient NIC Packet Scheduling   |   NSDI19     | [Slides]()      |
+|    6/27   |  Hao  | Pantheon: the training ground for Internet congestion-control research      | Sigcomm18   | [Slides]()      |         
 |    6/20    | Ding   | free discuss   |   free discuss     | [No Slides]()      |
 |    6/20    |  Zhuoyi  | free discuss     |   free discuss     | [No Slides]()      |         
 |    6/13    | Yiqing   | ML for CC     |   free discuss     | [No Slides]()      |
