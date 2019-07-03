@@ -3,10 +3,8 @@
 |---|---| 
 | Jingrong  | 陈镜融 |
 | Ge  |  陈戈 | 
-| Shuihai  | 胡水海 |
 | Qinghe  | 敬清贺 |
 | Duowen  | 刘多闻 |
-| Wenxin  | 李文信 |
 | Zhaorong  | 刘肇荣 |
 | Yiqing | 马一清 |
 | Zhuoyi | 彭焯艺 | 
@@ -26,7 +24,9 @@
 | Hong  |  张弘 | 
 | Li | 陈力 | 
 | Justinas | Lingys, Justinas  | 
+| Shuihai  | 胡水海 |
 | Baochen | 乔宝琛 | 
+| Wenxin  | 李文信 |
 | Bairen | 易百忍 | 
 | Yuchao | 张宇超 | 
 
