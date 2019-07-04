@@ -1,11 +1,21 @@
 
 # SING Weekly Discussions Archive
 
-> This is the Weekly Discussion [`Order`](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/Namelist.md).
+> This is the PhD List [`Order1`](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/phdlist.md).
+
+**Welcome to choose your own topic of ML-Tutorials.**
+
+> This is the SING-LAB List [`Order2`](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/Namelist.md).
 
 ---
 
 ## 2019
+
+### July
+|    Date    | Presenter | Topic | Source | Links |
+|------------|-----------|-------|--------|-------|
+|    7/4    | Ding   | Bridging the Edge-Cloud Barrier for Real-time Advanced Vision Analytics    | HotCloud19 | [Slides]()     |
+|    7/4  |  Weiyan  | ML-tutorial-0   | Machine Learning  | [Slides]()  |         
 
 ### June
 |    Date    | Presenter | Topic | Source | Links |
