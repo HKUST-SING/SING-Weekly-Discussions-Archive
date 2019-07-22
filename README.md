@@ -14,9 +14,9 @@
 ### July
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
-|    7/18   | yiqing | ML Supervised Learning(1) |   tutorial     |  [/]()       |
+|    7/18   | Yiqing | ML Supervised Learning(1) |   tutorial     |  [/]()       |
 |    7/4    | Ding   | Bridging the Edge-Cloud Barrier for Real-time Advanced Vision Analytics    | HotCloud19 | [Slides]()     |
-|    7/4  |  Weiyan  | ML-tutorial-0   | Machine Learning  | [Slides]()  |         
+|    7/4  |  Weiyan  | ML-tutorial-0   | Machine Learning  | [Slides]()  |
 
 ### June
 |    Date    | Presenter | Topic | Source | Links |
@@ -35,7 +35,7 @@
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
 |    5/30    |  Qinghuan   | free discuss     |   free discuss     | [No Slides]()      |
-|    5/30    |  Tianhan   | free discuss     |   free discuss     | [No Slides]()      |         
+|    5/30    |  Tianhan   | free discuss     |   free discuss     | [No Slides]()      |
 |    5/16    |  Weiyan   | free discuss     |   free discuss     | [No Slides]()      |
 |    5/16    |  Chaoliang    | free discuss    |  free discuss      |  [No Slides]()     |
 |    5/9    |  Zhaoxiong    | free discuss     |   free discuss     | [No Slides]()      |
@@ -64,21 +64,21 @@
 |  3/9    |  Duowen   |  Tiresias: A GPU Cluster Manager for Distributed Deep Learning |  NSDI19 |   [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2019/03/03.09_duowen.pptx)  |
 |  3/2   |  Jingrong  |  Deconstructing RDMA-enabled Distributed Transactions: Hybrid is Better ! |   OSDI18   | [Slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_wei.pdf) |
 |  3/2   |  Ge   |  FlowBlaze: Stateful Packet Processing in Hardware   | NSDI19 | [Slides](https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_pontarelli.pdf) |
- 
+
 
 ### Febrary
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
-| 2/23 | Gaoxiong | HyperLoop: Group-Based NIC-Offloading to Accelerate Replicated Transactions in Multi-Tenant Storage Systems | Sigcomm2018 | [Slides](http://conferences.sigcomm.org/sigcomm/2018/program.html) |  
-| 2/23 | Chaoliang | LegoOS: A Disseminated, Distributed OS for Hardware Resource Disaggregation  | OSDI18 | [Slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_shan.pdf) |  
+| 2/23 | Gaoxiong | HyperLoop: Group-Based NIC-Offloading to Accelerate Replicated Transactions in Multi-Tenant Storage Systems | Sigcomm2018 | [Slides](http://conferences.sigcomm.org/sigcomm/2018/program.html) |
+| 2/23 | Chaoliang | LegoOS: A Disseminated, Distributed OS for Hardware Resource Disaggregation  | OSDI18 | [Slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_shan.pdf) |
 
 
 ### January
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
-| 1/19 | Zhaoxiong | TicTac: Improving Distributed Deep Learning With Communication Scheduling | SysML19 | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2019/01/01.19_Zhaoxiong.pptx) |  
-| 1/19 | Jiacheng | Selecta: Heterogeneous Cloud Storage Configuration for Data Analytics | ATC18 | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2019/01/01.19_Jiacheng.pptx) |  
-| 1/19 | Yiqing | Improving TCP Congestion Control with Machine Intelligence | SIGCOMM18-NetAI | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2019/01/01.19_Yiqing.key) |  
+| 1/19 | Zhaoxiong | TicTac: Improving Distributed Deep Learning With Communication Scheduling | SysML19 | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2019/01/01.19_Zhaoxiong.pptx) |
+| 1/19 | Jiacheng | Selecta: Heterogeneous Cloud Storage Configuration for Data Analytics | ATC18 | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2019/01/01.19_Jiacheng.pptx) |
+| 1/19 | Yiqing | Improving TCP Congestion Control with Machine Intelligence | SIGCOMM18-NetAI | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2019/01/01.19_Yiqing.key) |
 | 1/12 | Yiding | Neural Adaptive Content-aware Internet Video Delivery | OSDI18 | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2019/01/01.11_Yiding.pdf) |
 | 1/12 | Han | Mainstream : Dynamic Stem-Sharing for Multi-Tenant Video Processing | ATC18 | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2019/01/01.11_Han.pptx) |
 | 1/12 | Xinchen | Floem: A Programming System for NIC-Accelerated Network Applications | OSDI18 | [Slides](https://github.com/HKUST-SING/SING-Weekly-Discussions-Archive/blob/master/files/2019/01/01.11_Xinchen.pptx) |
@@ -222,15 +222,15 @@
 ### August
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
-| 08/26 |    Ge    |  Stateless Network Functions: Breaking the Tight Coupling of State and Processing | NSDI 2017 | [StatelessNF paper and slides](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/kablan) | 
-| 08/19 |   Hong   |  resilient datacenter load balancing in the wild | Sigcomm 2017 | [Hermes paper](https://dl.acm.org/authorize?N33902) [slides](https://conferences.sigcomm.org/sigcomm/2017/files/program/ts-6-3-resilient-load-balancing.pptx) | 
-| 08/12 | Gaoxiong |  Evaluating the Power of Flexible Packet Processing for Network Resource Allocation | NSDI 2017 | [FlexSwitch paper and slides](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/sharma) | 
+| 08/26 |    Ge    |  Stateless Network Functions: Breaking the Tight Coupling of State and Processing | NSDI 2017 | [StatelessNF paper and slides](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/kablan) |
+| 08/19 |   Hong   |  resilient datacenter load balancing in the wild | Sigcomm 2017 | [Hermes paper](https://dl.acm.org/authorize?N33902) [slides](https://conferences.sigcomm.org/sigcomm/2017/files/program/ts-6-3-resilient-load-balancing.pptx) |
+| 08/12 | Gaoxiong |  Evaluating the Power of Flexible Packet Processing for Network Resource Allocation | NSDI 2017 | [FlexSwitch paper and slides](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/sharma) |
 
 ### July
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
-| 07/29 |  Bairen   |  Performance Isolation Anomalies in RDMA | KBNets 2017 | [slides](file/2017/07/fairdma-kbnets2017.pdf) | 
-| 07/15 |  Baochen  |  Fast, Scalable and Simple Distributed Transactions with Two-Sided (RDMA) Datagram RPCs  | SOSP 2016 | [Faast paper and slides](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/kalia) | 
+| 07/29 |  Bairen   |  Performance Isolation Anomalies in RDMA | KBNets 2017 | [slides](file/2017/07/fairdma-kbnets2017.pdf) |
+| 07/15 |  Baochen  |  Fast, Scalable and Simple Distributed Transactions with Two-Sided (RDMA) Datagram RPCs  | SOSP 2016 | [Faast paper and slides](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/kalia) |
 
 [Chameleon paper]: https://www.microsoft.com/en-us/research/uploads/prod/2018/05/Chameleon_SIGCOMM2018.pdf
 [Monotask paper]: http://kayousterhout.org/publications/sosp17-final183.pdf
