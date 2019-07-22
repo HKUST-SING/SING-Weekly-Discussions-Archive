@@ -14,6 +14,7 @@
 ### July
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
+|    7/18   | yiqing | ML Supervised Learning(1) |   tutorial     |  [/]()       |
 |    7/4    | Ding   | Bridging the Edge-Cloud Barrier for Real-time Advanced Vision Analytics    | HotCloud19 | [Slides]()     |
 |    7/4  |  Weiyan  | ML-tutorial-0   | Machine Learning  | [Slides]()  |         
 
