@@ -10,11 +10,17 @@
 ---
 
 ## 2019
+### August 
+|    Date    | Presenter | Topic | Source | Links |
+|------------|-----------|-------|--------|-------|
+|    8/15   | Xinchen | ML Reinforcement Learning (3) |   tutorial     |  [/]       |
+|    8/22   | Hao | Flow scheduling (4) |   tutorial     |  [/]       |
 
 ### July
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
-|    7/18   | Yiqing | ML Supervised Learning(1) |   tutorial     |  [/]()       |
+|    7/25   | Han | ML Reinforcement Learning (2) |   tutorial     |  [/]       |
+|    7/18   | Yiqing | ML Supervised Learning (1) |   tutorial     |  [/]()       |
 |    7/4    | Ding   | Bridging the Edge-Cloud Barrier for Real-time Advanced Vision Analytics    | HotCloud19 | [Slides]()     |
 |    7/4  |  Weiyan  | ML-tutorial-0   | Machine Learning  | [Slides]()  |
 
