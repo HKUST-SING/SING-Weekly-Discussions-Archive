@@ -10,6 +10,15 @@
 ---
 
 ## 2019
+
+| Date | Pre senter | Topic     | Source   | Links |
+| ---- | ---------- | --------- | -------- | ----- |
+| 9/5  | Gechen     | Clutering | Tutorial | [/]   |
+|      |            |           |          |       |
+|      |            |           |          |       |
+
+
+
 ### August 
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
