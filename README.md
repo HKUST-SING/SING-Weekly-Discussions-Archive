@@ -11,11 +11,11 @@
 
 ## 2019
 
-| Date | Pre senter | Topic     | Source   | Links |
-| ---- | ---------- | --------- | -------- | ----- |
-| 9/5  | Gechen     | Clutering | Tutorial | [/]   |
-|      |            |           |          |       |
-|      |            |           |          |       |
+| Date | Pre senter | Topic                        | Source   | Links |
+| ---- | ---------- | ---------------------------- | -------- | ----- |
+| 9/5  | Gechen     | Clutering                    | Tutorial | [/]   |
+| 9/12 | Chaoliang  | Distributed machine learning | Papers   | [/]   |
+|      |            |                              |          |       |
 
 
 
