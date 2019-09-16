@@ -13,8 +13,8 @@
 
 | Date | Pre senter | Topic                        | Source   | Links |
 | ---- | ---------- | ---------------------------- | -------- | ----- |
-| 9/5  | Gechen     | Clutering                    | Tutorial | [/]   |
 | 9/12 | Chaoliang  | Distributed machine learning | Papers   | [/]   |
+| 9/5  | Gechen     | Clutering                    | Tutorial | [/]   |
 |      |            |                              |          |       |
 
 
@@ -22,8 +22,8 @@
 ### August 
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
-|    8/15   | Xinchen | ML Reinforcement Learning (3) |   tutorial     |  [/]       |
-|    8/22   | Hao | Flow scheduling (4) |   tutorial     |  [/]       |
+| 8/22 | Hao       | Flow scheduling (4)           | tutorial |  [/]    |
+| 8/15 | Xinchen   | ML Reinforcement Learning (3) | tutorial | [/]   |
 
 ### July
 |    Date    | Presenter | Topic | Source | Links |
