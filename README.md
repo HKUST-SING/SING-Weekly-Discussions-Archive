@@ -11,6 +11,18 @@
 
 ## 2019
 
+## Octorber
+
+| Date | Pre senter | Topic                                             | Source   | Links |
+| ---- | ---------- | ------------------------------------------------- | -------- | ----- |
+|      |            |                                                   |          |       |
+|      |            |                                                   |          |       |
+| 10/3 | Yiding     | INFaaS on *model-less* machine learning inference | Tutorial | [/]   |
+
+
+
+##September
+
 | Date | Pre senter | Topic                        | Source   | Links |
 | ---- | ---------- | ---------------------------- | -------- | ----- |
 | 9/20 | LiuYang    | advertising recommendation   | Papers   | [/]   |
